@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @kunwarm420
-- 👀 I’m interested in C, Pythona and Java
-- 🌱 I’m currently learning computer Science and the above languages
-- 💞️ I’m looking to collaborate on any begineer level code
-- 📫 How to reach me: mandipkunwar07@gmail.com
+- 👋 Hi, I’m @Kunwarm
+- 2025 graduate from Lancaster University
+- Working on: https://github.com/kunwarm420/FallingBlocks
+- If you wanna reach me, email me @: mandipkunwar54@gmail.com
 
 
 <!---
